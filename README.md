@@ -12,7 +12,14 @@ Nils Langner ist seit über 20 Jahren unterwegs in der Webentwicklung. Nach sein
 ## Kapitel
 
 ### Einleitung
-### Warum Monitoring?
+### Warum, wann und wie viel Monitoring?
 ### Server Monitoring
 ### Application Monitoring
 
+
+
+---
+
+Ideen:
+
+- Testing vs. Monitoring
